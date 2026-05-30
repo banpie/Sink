@@ -1,0 +1,91 @@
+{
+  "version": "1",
+  "exportedAt": "2026-05-05T00:00:00.000Z",
+  "count": 12,
+  "links": [
+    {
+      "slug": "wx-resource",
+      "url": "https://www.banpie.info/go/greenbook-resource/?utm_source=wechat_private&utm_medium=friend_auto_reply&utm_campaign=global&utm_content=resource&keyword=friend_add&slot=friend_auto_reply&target=resource",
+      "title": "微信私域：AI 自媒体资料库",
+      "description": "个人微信自动通过好友回复中的 AI 资料入口。",
+      "comment": "Source: personal WeChat friend auto reply. Target: resource."
+    },
+    {
+      "slug": "wx-zsxq",
+      "url": "https://www.banpie.info/go/global-zsxq/?utm_source=wechat_private&utm_medium=friend_auto_reply&utm_campaign=global&utm_content=zsxq&keyword=friend_add&slot=friend_auto_reply&target=zsxq",
+      "title": "微信私域：半撇的 AI 创作工坊",
+      "description": "个人微信自动通过好友回复中的知识星球入口。",
+      "comment": "Source: personal WeChat friend auto reply. Target: zsxq."
+    },
+    {
+      "slug": "wx-course",
+      "url": "https://www.banpie.info/go/global-course/?utm_source=wechat_private&utm_medium=friend_auto_reply&utm_campaign=global&utm_content=course&keyword=friend_add&slot=friend_auto_reply&target=course",
+      "title": "微信私域：AI 自媒体系统课 / 体验课",
+      "description": "个人微信自动通过好友回复中的课程入口。",
+      "comment": "Source: personal WeChat friend auto reply. Target: course."
+    },
+    {
+      "slug": "wx-partners",
+      "url": "https://www.banpie.info/go/global-partners/?utm_source=wechat_private&utm_medium=friend_auto_reply&utm_campaign=global&utm_content=partners&keyword=friend_add&slot=friend_auto_reply&target=partners",
+      "title": "微信私域：企业培训 / AI 工作流定制",
+      "description": "个人微信自动通过好友回复中的合作入口。",
+      "comment": "Source: personal WeChat friend auto reply. Target: partners."
+    },
+    {
+      "slug": "wx-nfvideo",
+      "url": "https://nf.video/C7SsY",
+      "title": "微信私域：银河录像厅",
+      "description": "个人微信自动通过好友回复中的海外 AI 工具入口。",
+      "comment": "Source: personal WeChat friend auto reply. Tool: nf.video. Coupon: BPLS."
+    },
+    {
+      "slug": "wx-universalbus",
+      "url": "https://universalbus.cn?s=fuKcRUiiOY",
+      "title": "微信私域：环球巴士",
+      "description": "个人微信自动通过好友回复中的海外 AI 工具入口。",
+      "comment": "Source: personal WeChat friend auto reply. Tool: universalbus. Coupon: BPLS."
+    },
+    {
+      "slug": "bil-e92-resource",
+      "url": "https://www.banpie.info/go/e92-resource/?utm_source=bilibili&utm_medium=dm_rpa&utm_campaign=e92&utm_content=resource&keyword=E92BIL&slot=bilibili_dm&target=resource",
+      "title": "B站：E92 小红书一键直出资料",
+      "description": "B站评论关键词触发 RPA 私信使用，承接小红书笔记一键直出视频的工具/资料需求。",
+      "comment": "Source: Bilibili comment keyword -> RPA DM for E92 rednote toolkit."
+    },
+    {
+      "slug": "greenbook",
+      "url": "https://www.banpie.info/go/greenbook-resource/?utm_source=shortlink&utm_medium=generic&utm_campaign=greenbook&utm_content=resource&keyword=greenbook&slot=generic_shortlink&target=resource",
+      "title": "通用：AI 绿皮书资料合集",
+      "description": "跨渠道可复用的 AI 绿皮书汇总入口。用于无法或不需要区分具体渠道的场景。",
+      "comment": "Generic greenbook summary shortlink for reusable public/private replies."
+    },
+    {
+      "slug": "bil-greenbook",
+      "url": "https://www.banpie.info/go/greenbook-resource/?utm_source=bilibili&utm_medium=dm_rpa&utm_campaign=global&utm_content=resource&keyword=greenbook_bil&slot=bilibili_dm&target=resource",
+      "title": "B站：AI 绿皮书总资料库",
+      "description": "B站评论关键词触发 RPA 私信使用的 AI 绿皮书总资料库入口，覆盖所有视频资料。",
+      "comment": "Source: Bilibili comment keyword -> RPA DM. Target: greenbook aggregate resource."
+    },
+    {
+      "slug": "bil-follow-greenbook",
+      "url": "https://www.banpie.info/go/greenbook-resource/?utm_source=bilibili&utm_medium=follow_auto_reply&utm_campaign=global&utm_content=resource&keyword=follow&slot=bilibili_follow_reply&target=resource",
+      "title": "B站首关：AI 绿皮书总资料库",
+      "description": "B站首次关注自动回复中的绿皮书资料库入口。",
+      "comment": "Source: Bilibili follow auto reply. Target: greenbook aggregate resource."
+    },
+    {
+      "slug": "bil-follow-zsxq",
+      "url": "https://www.banpie.info/go/global-zsxq/?utm_source=bilibili&utm_medium=follow_auto_reply&utm_campaign=global&utm_content=zsxq&keyword=follow&slot=bilibili_follow_reply&target=zsxq",
+      "title": "B站首关：AI 创作工坊 / 知识星球",
+      "description": "B站首次关注自动回复中的知识星球入口。",
+      "comment": "Source: Bilibili follow auto reply. Target: ZSXQ."
+    },
+    {
+      "slug": "bil-follow-course",
+      "url": "https://www.banpie.info/go/global-course/?utm_source=bilibili&utm_medium=follow_auto_reply&utm_campaign=global&utm_content=course&keyword=follow&slot=bilibili_follow_reply&target=course",
+      "title": "B站首关：AI 自媒体体验课",
+      "description": "B站首次关注自动回复中的千聊体验课/系统课入口。",
+      "comment": "Source: Bilibili follow auto reply. Target: Qianliao course."
+    }
+  ]
+}
