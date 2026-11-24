@@ -12,10 +12,10 @@
     },
     {
       "slug": "wx-zsxq",
-      "url": "https://www.banpie.info/go/global-zsxq/?utm_source=wechat_private&utm_medium=friend_auto_reply&utm_campaign=global&utm_content=zsxq&keyword=friend_add&slot=friend_auto_reply&target=zsxq",
-      "title": "微信私域：半撇的 AI 创作工坊",
-      "description": "个人微信自动通过好友回复中的知识星球入口。",
-      "comment": "Source: personal WeChat friend auto reply. Target: zsxq."
+      "url": "https://www.banpie.info/go/global-zsxq/?utm_source=wechat_private&utm_medium=friend_auto_reply&utm_campaign=global&utm_content=resource&keyword=friend_add&slot=friend_auto_reply&target=resource",
+      "title": "微信私域：AI 绿皮书资料合集（原星球入口承接）",
+      "description": "知识星球已关闭，原短链保留并承接至免费《2026 AI 绿皮书》主站资料合集。",
+      "comment": "Source: personal WeChat friend auto reply. Retired ZSXQ fallback to greenbook resource."
     },
     {
       "slug": "wx-course",
@@ -75,10 +75,10 @@
     },
     {
       "slug": "bil-follow-zsxq",
-      "url": "https://www.banpie.info/go/global-zsxq/?utm_source=bilibili&utm_medium=follow_auto_reply&utm_campaign=global&utm_content=zsxq&keyword=follow&slot=bilibili_follow_reply&target=zsxq",
-      "title": "B站首关：AI 创作工坊 / 知识星球",
-      "description": "B站首次关注自动回复中的知识星球入口。",
-      "comment": "Source: Bilibili follow auto reply. Target: ZSXQ."
+      "url": "https://www.banpie.info/go/global-zsxq/?utm_source=bilibili&utm_medium=follow_auto_reply&utm_campaign=global&utm_content=resource&keyword=follow&slot=bilibili_follow_reply&target=resource",
+      "title": "B站首关：AI 绿皮书资料合集（原星球入口承接）",
+      "description": "知识星球已关闭，原 B 站首关短链保留并承接至免费《2026 AI 绿皮书》主站资料合集。",
+      "comment": "Source: Bilibili follow auto reply. Retired ZSXQ fallback to greenbook resource."
     },
     {
       "slug": "bil-follow-course",
